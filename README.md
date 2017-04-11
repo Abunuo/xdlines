@@ -4,9 +4,10 @@
 
 
 ### 使用方式
-----
-
-特别简单
-
+1.在页面引入jQuery和xdlines
+`
+  <script src="jquery.js" type="text/javascript" charset="utf-8"></script>
+	<script src="xdlines.jquery.min.js" type="text/javascript" charset="utf-8"></script>
+`
 
 
