@@ -2,11 +2,6 @@
 # xdlines
 > 一个非常简单的jQuery扩展，可以实现对单行、多行文本的溢出处理。     
 
-> 有需要扩展功能的可以告诉我，github或邮箱(xin_da@foxmail.com)都可以
-
-> 有用帮忙点个star：）
-
-
 ### 使用方式  
 
 1. 在页面引入jQuery和xdlines
