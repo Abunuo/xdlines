@@ -6,7 +6,7 @@
 
 1. 在页面引入jQuery和xdlines
 ```html
-  <script src="实际文件路径/jquery.js" type="text/javascript" charset="utf-8"></script>
+  <script src="https://cdn.bootcss.com/jquery/3.2.1/jquery.min.js"></script>
   <script src="实际文件路径/dlines.jquery.min.js" type="text/javascript" charset="utf-8"></script>
 ````
 
